@@ -9,35 +9,6 @@ export const RESUME_DATA = {
     gpa: '3.86/4.0',
     period: '2020 - 2024'
   },
-  // initials: "RBS",
-  // locationLink: "https://www.google.com/maps/place/jakarta",
-  // summary:
-  //   "Interested in software development, microservices, infrastructure, and Web3 (DeFi). Also love running and weightlifting.",
-  // avatarUrl: "/avatar.jpg",
-  // personalWebsiteUrl: "https://bagus.men",
-  // contact: {
-  //   email: "ramadhanabagus99@gmail.com",
-  //   social: [
-  //     {
-  //       name: "GitHub",
-  //       url: "https://github.com/ramadhanabs",
-  //       icon: GitHubIcon,
-  //     },
-  //     {
-  //       name: "LinkedIn",
-  //       url: "https://www.linkedin.com/in/ramadhanabagus/",
-  //       icon: LinkedInIcon,
-  //     },
-  //   ],
-  // },
-  // education: [
-  //   {
-  //     school: "Universitas Islam Indonesia",
-  //     degree: "Bachelor's Degree in Computer Science",
-  //     start: "2017",
-  //     end: "2021",
-  //   },
-  // ],
   work: [
     {
       company: "PT Telekomunikasi Indonesia",
